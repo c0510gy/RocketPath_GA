@@ -1,6 +1,12 @@
 # RocketPath_GA
 유전 알고리즘(GA - Genetic Algorithm)을 이용한 로켓의 경로 찾기 구현
 
+
+**구현 영상**
+
+[![YoutubeVid](http://img.youtube.com/vi/mjfIOBrU4Sc/0.jpg)](http://www.youtube.com/watch?v=mjfIOBrU4Sc)
+
+
 ## 0. 그대로 실행 시 주의사항
 그대로 실행 시, 하위 디렉토리 ```\datas``` 에 그래픽화한 이미지 및 데이터들을 모두 저장하도록 되어 있습니다.
 수많은 파일을 생성하고 싶지 않다면, ```Program.cs``` 에서 ```RocketGene```클래스의 ```CalNextGene()``` 함수를 수정하세요.
